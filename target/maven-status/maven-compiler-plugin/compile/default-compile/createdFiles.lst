@@ -1,0 +1,11 @@
+com\optus\wordcount\config\SecurityWebApplicationInitializer.class
+com\optus\wordcount\model\json\View.class
+com\optus\wordcount\controller\WordCountController.class
+com\optus\wordcount\model\SearchCriterion.class
+com\optus\wordcount\model\WordBean.class
+com\optus\wordcount\service\CounterService.class
+com\optus\wordcount\controller\WordCountController$DefaultProperties.class
+com\optus\wordcount\config\SecurityConfiguration.class
+com\optus\wordcount\service\impl\CounterServiceImpl.class
+com\optus\wordcount\config\Application.class
+com\optus\wordcount\model\json\View$enquireResponse.class
